@@ -1,0 +1,10 @@
+2026-10-29 10:00:01 [INFO] User login successful for user_id=1042
+2026-10-29 10:05:12 [WARNING] High memory usage detected: 85% on node-01
+2026-10-29 10:10:45 [ERROR] Database connection failed to host db.internal:5432
+2026-10-29 10:11:00 [INFO] Retrying connection to database...
+2026-10-29 10:11:05 [ERROR] Database connection failed to host db.internal:5432
+2026-10-29 10:15:20 [WARNING] Slow query execution: 3400ms for query_id=502
+2026-10-29 10:20:00 [ERROR] Failed to process payment for transaction_id=99812: Timeout
+2026-10-29 10:21:00 [ERROR] Database connection failed to host db.internal:5432
+2026-10-29 10:25:30 [ERROR] Failed to process payment for transaction_id=44102: Timeout
+2026-10-29 10:30:00 [WARNING] Slow query execution: 4100ms for query_id=881
